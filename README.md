@@ -1,4 +1,4 @@
 # HR-analytics-Dashboard
 
-![HR Dashboard_002](https://github.com/abhishek201294/HR-analytics-Dashboard/assets/128690971/5997735f-cdb7-4901-84b9-eb1c49d5387a)
-![HR Dashboard_001](https://github.com/abhishek201294/HR-analytics-Dashboard/assets/128690971/1b514868-b5ac-41bf-bc8b-d28be73ce3c4)
+![HR Dashboard_001](https://github.com/abhishek201294/HR-analytics-Dashboard/assets/128690971/6c30d176-dfbd-463f-a16c-875de8f0f81a)
+![HR Dashboard_002](https://github.com/abhishek201294/HR-analytics-Dashboard/assets/128690971/54adfaa3-7895-4da2-961f-405a9dc54e41)
